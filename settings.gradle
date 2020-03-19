@@ -1,0 +1,3 @@
+rootProject.name='RxRelay3'
+include ':app'
+include ':rxrelay3'
